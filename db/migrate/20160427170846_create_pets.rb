@@ -1,4 +1,3 @@
-# Question 1. Paste your code below.
 class CreatePets < ActiveRecord::Migration
   def change
     create_table :pets do |t|
@@ -8,12 +7,3 @@ class CreatePets < ActiveRecord::Migration
     end
   end
 end
-
-
-# Question 2. Paste your code below.
-
-# Question 3. Paste your code below.
-
-# Question 4. Paste your code below.
-
-# Question 5. Paste your code below.
