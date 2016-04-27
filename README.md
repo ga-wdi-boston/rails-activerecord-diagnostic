@@ -28,7 +28,7 @@ Copy and paste all your answers into diagnostic.rb
 
 ### Question 1
 
-Generate a model and migration for `pet` that has a reference to `person`. `person` being the parent model and pet being the child. Copy and paste the migration file as your answer.
+Generate a model/migration for `pet` that has a reference to `person`. `person` being the parent model and pet being the child. Copy and paste the migration file as your answer.
 
 ### Question 2
 
@@ -40,7 +40,7 @@ In the rails console add `Pet.first` and `Pet.last` to `Person.first`'s pets col
 
 ### Question 4
 
-Generate a model and migration for `address` that joins people to cities. Paste the migration code as your answer.
+Generate a model/migration for `address` that joins people to cities. Paste the migration code as your answer.
 
 ### Question 5
 
