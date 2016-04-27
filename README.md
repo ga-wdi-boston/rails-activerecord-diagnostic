@@ -44,7 +44,7 @@ Generate a model and migration for `address` that joins people to cities. Paste 
 
 ### Question 5
 
-Associate 'app/modles/person.rb' with 'app/modles/city.rb' through 'app/modles/address.rb' in a many-to-many relationship. Paste the code for all the models as your answer.
+Associate `app/modles/person.rb` with `app/modles/city.rb` through `app/modles/address.rb` in a many-to-many relationship. Paste the code for all the models as your answer.
 
 ## [License](LICENSE)
 
